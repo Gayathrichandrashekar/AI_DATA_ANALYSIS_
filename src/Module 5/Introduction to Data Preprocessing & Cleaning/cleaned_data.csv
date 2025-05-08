@@ -1,0 +1,8 @@
+ID,Name,Age,City,Signup Date,Score
+1,Alice,25.0,new york,2021-01-01,85.0
+2,Bob,30.0,new york,,90.0
+4,Charlie,22.0,los angeles,2021-03-04,88.0
+5,David,27.285714285714285,chicago,,88.0
+6,Eve,29.0,unknown,,87.0
+7,NoName,28.0,boston,,89.0
+8,Grace,27.0,boston,2021-05-01,88.0
