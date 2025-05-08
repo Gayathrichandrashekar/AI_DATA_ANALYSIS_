@@ -1,0 +1,7 @@
+CustomerID,Name,Email,Phone,Address
+1,John Doe,johndoe@example.com,555-1234,123 Elm St
+2,Jane Smith,janesmith@example.com,,456 Oak St
+3,Alice Johnson,alicejohnson@example.com,555-5678,789 Pine St
+4,Bob Brown,johndoe@example.com,555-9876,101 Maple St
+5,Charlie Davis,,555-1111,202 Birch St
+6,David Wilson,davidwilson@example.com,,303 Cedar St
