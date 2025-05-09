@@ -10,3 +10,15 @@ amount            20.0
 date              20.0
 dtype: float64
 2025-05-09 23:25:51,548 - Mismatch Rate: 40.0%
+2025-05-09 23:29:29,782 - Missing Data Rate:
+transaction_id    20.0
+amount            20.0
+date              20.0
+dtype: float64
+2025-05-09 23:29:29,783 - Mismatch Rate: 40.0%
+2025-05-09 23:30:51,872 - Missing Data Rate:
+transaction_id    20.0
+amount            20.0
+date              20.0
+dtype: float64
+2025-05-09 23:30:51,872 - Mismatch Rate: 40.0%
