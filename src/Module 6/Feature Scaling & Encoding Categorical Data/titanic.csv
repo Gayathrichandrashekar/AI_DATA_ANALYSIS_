@@ -1,0 +1,8 @@
+Column names after encoding: Index(['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp', 'Parch', 'Ticket', 'Fare', 'Embarked', 'Sex_LabelEncoded', 'Sex_female', 'Sex_male'], dtype='object')
+Encoded DataFrame:
+     Sex  Sex_LabelEncoded  Sex_female
+0   male                 0         0.0
+1 female                 1         1.0
+2 female                 1         1.0
+3 female                 1         1.0
+4   male                 0         0.0
