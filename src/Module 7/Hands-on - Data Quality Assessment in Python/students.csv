@@ -1,0 +1,23 @@
+Age Violations: Empty DataFrame
+Columns: [ID, Name, Age, Grade, Email]
+Index: []
+Grade Violations: Empty DataFrame
+Columns: [ID, Name, Age, Grade, Email]
+Index: []
+Invalid Emails:    ID     Name  Age  Grade                Email
+1   2  Jane Doe   25     88       invalid-email
+Invalid Ages (non-integer):    ID        Name    Age  Grade              Email
+1   2  Jane Doe   25.5     88    jane.doe@example.com
+Missing Values per Column:
+ID        0
+Name      0
+Age       1
+Grade     0
+Email     1
+dtype: int64
+Rows with Missing Data:
+   ID     Name  Age  Grade                Email
+1   2  Jane Doe   NaN     88    jane.doe@example.com
+Rows with Missing Emails:
+   ID     Name   Age  Grade Email
+2   3  Alice     21    93   NaN
