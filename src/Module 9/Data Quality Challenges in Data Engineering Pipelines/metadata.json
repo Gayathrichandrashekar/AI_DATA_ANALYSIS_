@@ -11,23 +11,23 @@
         "amount": "float64",
         "date": "object"
     },
-    "last_updated": "2025-05-12 14:10:15.707960",
+    "last_updated": "2025-05-12 14:13:31.541966",
     "transformations": [
         {
             "transformation": "Imputed missing values in 'amount' column with mean.",
-            "timestamp": "2025-05-12 14:10:15.721182"
+            "timestamp": "2025-05-12 14:13:31.549175"
         },
         {
             "transformation": "Removed duplicates based on 'customer_id' column.",
-            "timestamp": "2025-05-12 14:10:15.721212"
+            "timestamp": "2025-05-12 14:13:31.549222"
         },
         {
             "transformation": "Imputed missing 'amount' values using mean.",
-            "timestamp": "2025-05-12 14:10:15.721600"
+            "timestamp": "2025-05-12 14:13:31.549706"
         },
         {
             "transformation": "Removed duplicate rows based on 'customer_id'.",
-            "timestamp": "2025-05-12 14:10:15.722302"
+            "timestamp": "2025-05-12 14:13:31.550496"
         }
     ]
 }
