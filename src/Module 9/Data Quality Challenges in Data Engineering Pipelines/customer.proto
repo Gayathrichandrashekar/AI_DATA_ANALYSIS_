@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package customer;
+
+service CustomerValidator {
+  rpc ValidateCustomer (CustomerRequest) returns (ValidationResponse);
+}
+
+message CustomerRequest {
+  int32 customer_id = 1;
+  string name = 2;
+  string email = 3;
+  float balance = 4;
+  bool is_active = 5;
+}
+
+message ValidationResponse {
+  bool is_valid = 1;
+  string message = 2;
+}
